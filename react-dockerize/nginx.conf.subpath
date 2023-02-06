@@ -1,0 +1,9 @@
+server {
+  listen 80;
+
+  location /backoffice {
+    root /usr/share/nginx/html/;
+    include /etc/nginx/mime.types;
+    try_files $uri $uri/ /backoffice/index.html;
+  }
+}
