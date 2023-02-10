@@ -51,5 +51,7 @@
     - UI Components
     - Project Structures
     - Project workshop
+    - Build React (Production)
+    - Dockerize
 
 
