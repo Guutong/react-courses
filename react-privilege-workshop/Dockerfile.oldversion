@@ -1,0 +1,14 @@
+# Base image from node 19
+FROM node:19
+# Working directory start at /app
+WORKDIR /app
+# Copy source code
+COPY . .
+# install dependentcy
+RUN npm install
+# build app
+RUN npm run build
+# expose port 3000 (configuration)
+EXPOSE 3000
+# start the app
+CMD [ "npx", "serve", "build" ]

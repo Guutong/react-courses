@@ -1,0 +1,55 @@
+# React course
+
+### Outline
+  - Web technology?
+  - HTTP - Client Server
+    - Multi Page Applications
+    - Single Page Applications
+  - What is HTML?
+  - What is CSS?
+  - DOM => Browser parse HTML, CSS, JS
+  - Basic Javascript
+    - Variable
+    - Condition
+    - Operators
+    - Object
+    - Array
+    - Loop
+    - Event Loop
+    - Promise
+    - Async/Await
+    - Test
+  - Basic Typescript
+    - What is Typescript?
+    - Type safe
+    - Compile Typescript (tsc)
+    - Module Import/Export.
+  - React
+    - React Library => React for building user interfaces
+    - Components => Break the UI into a component hierarchy
+    - Props => Props are like arguments you pass to a function
+    - States => State is like a component’s memory.
+    - VirtualDOM => Representation of a UI is kept in memory and synced with the "real" DOM
+    - JSX => JavaScript that allows you to write HTML-like code
+    - Display data
+    - Conditional rendering
+    - Render List
+    - Managing State 
+    - LocalStorage => get, set
+    - Hooks
+      - useState
+      - useEffect
+      - useReducer
+      - useMemo 
+      - useCallback
+      - useRef
+      - useContext
+      - Custom hook
+    - Http Call (Call API in React)
+    - React Router 
+    - Styling in React
+    - UI Components
+    - Project Structures
+    - Project workshop
+
+
