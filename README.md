@@ -46,12 +46,43 @@
       - useContext
       - Custom hook
     - Http Call (Call API in React)
-    - React Router 
+      - Axios
+      - Axios Interceptor (Adding Bearer Token)
+    - React Router (Client side Route)
+      - RouterProvider, createBrowserRouter
+      - Multiple route
+      - Nested route
+      - Error Page
+      - Index Page
+      - Using Layout <Outlet>
+      - Link route <Link>
+      - Active route <NavLink>
+      - useParams (get value from path params variable)
+      - useNavigate
+      - useLocation apply to custom hook useQuery (get value from query params)
+      - Guard route
     - Styling in React
+      - inline styles
+      - css files
+      - styled-components
     - UI Components
     - Project Structures
     - Project workshop
+      - Apply UI components (PrimeReact)
+      - Basic Login form (validate, submit)
+      - Use Formik create Login Form (validate, submit)
+      - Use Text Editor (Quill)
+      - List Page
+      - Create Page
+      - Edit Page
+      - Export csv, excel, pdf (xlsx, jspdf, jspdf-autotable)
     - Build React (Production)
+      - Use env-cmd handle environment file (.env)
+      - Build by environment
     - Dockerize
+      - Dockerfile
+      - Simple build
+      - Dockerfile multi-stage
+      - Dockerfile build arg by environment
 
 
